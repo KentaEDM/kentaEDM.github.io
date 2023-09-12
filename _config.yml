@@ -3,6 +3,7 @@ logo: "/images/KentaFoto.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br>Data Enthusiast|Looking for a data field job<br>
+  <br><br>
   Second description 
   <br>Welcome to my data science portfolio. I created several projects related to data science, such as machine learning models to improve my skills in data science.<br>
   <a href="https://www.linkedin.com/in/kentaedmonda/">View My LinkedIn Profile</a> 
