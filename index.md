@@ -3,7 +3,7 @@
 ---
 ### Data Science & Machine Learning
 
-[Project 1 : Income Prediction: RandomforestClassifier Algorithm](/sample_page)
+####Project 1 : Income Prediction: RandomforestClassifier Algorithm
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
