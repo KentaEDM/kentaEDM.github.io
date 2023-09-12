@@ -1,8 +1,8 @@
-## Portfolio
+## Projects in Data Science & Machine Learning
 
 ---
 
-### Category Name 1 
+### Income Prediction: RandomforestClassifier Algorithm
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Face Recognition for Adult vs Children: Tensorflow Algorithm
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
