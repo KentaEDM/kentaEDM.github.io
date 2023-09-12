@@ -1,4 +1,4 @@
-## Projects in Data Science & Machine Learning
+## Data Project: Data Analysis |  Data Visualization | Data Science | Machine Learning
 
 ---
 
