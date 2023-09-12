@@ -1,9 +1,9 @@
-## Data Project: Data Analysis |  Data Visualization | Data Science | Machine Learning
+# Data Project: Data Analysis |  Data Visualization | Data Science | Machine Learning
 
 ---
-### Data Science & Machine Learning
+## Data Science & Machine Learning
 
-####Project 1 : Income Prediction: RandomforestClassifier Algorithm
+#### Project 1 : Income Prediction: RandomforestClassifier Algorithm
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
