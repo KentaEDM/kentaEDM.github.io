@@ -1,23 +1,21 @@
 ## Data Project: Data Analysis |  Data Visualization | Data Science | Machine Learning
 
 ---
+### Data Science & Machine Learning
 
-### Income Prediction: RandomforestClassifier Algorithm
-
-[Project 1 Title](/sample_page)
+[Project 1 : Income Prediction: RandomforestClassifier Algorithm](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Project 2 : Face Recognition for Adult vs Children: Tensorflow Algorithm](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Face Recognition for Adult vs Children: Tensorflow Algorithm
+
+---
+
+### Data Analytics & Data Visualization
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
