@@ -91,6 +91,4 @@ Through data visualization and analysis, our goal is to offer a clearer picture 
 
 [View Dashboard on my Tableau Public](https://public.tableau.com/app/profile/kenta.edmonda/viz/GlobalCovid-19_16665169282600/Dashboard1)
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
