@@ -12,7 +12,10 @@ In this project, I employ the Random Forest Classifier algorithm to predict inco
 
 ---
 #### Project 2 : Face Recognition for Adult vs Children: Tensorflow Algorithm
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+The project revolved around image classification using TensorFlow, aiming to build a well-tuned machine learning model with high accuracy. It successfully achieved a training accuracy and validation accuracy of over 95%, all within the TensorFlow framework. To further enhance the model's performance, several strategies and recommendations were implemented, including callback functions, data augmentation, dropout regularization, and the exploration of transfer learning with TensorFlow. This project exemplified the power of TensorFlow in image classification and demonstrated the importance of continuous monitoring and optimization in machine learning projects.
+
+<img src="images/Screenshot 2023-09-13 155056.png?raw=true"/>
 
 ---
 
