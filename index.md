@@ -66,7 +66,8 @@ Create an API for cleaning abusive and hate speech text data. Find the distribut
 This project revolves around visualizing the distribution of Netflix viewership for both movies and TV shows worldwide. It aims to provide insights into which movies and TV shows are the most popular among Netflix users and offers a comparative analysis of viewership between these two content categories on the platform.
 
 <img src="images/Dashboard 1 (1).png?raw=true"/>
-[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)]
+
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
 [View Dashboard on my Tableau Public](https://public.tableau.com/app/profile/kenta.edmonda/viz/SimpleNetflixandTVShowDashboard/Dashboard1) 
 
@@ -82,6 +83,7 @@ The primary objective of this project is to provide better insights and understa
 Through data visualization and analysis, our goal is to offer a clearer picture of the COVID-19 pandemic's dynamics, its toll on different regions, and how vaccination campaigns are influencing the outcomes. This project serves as a valuable resource for informed decision-making and public awareness during these challenging times.
 
 <img src="images/Dashboard 1.png?raw=true"/>
+
 [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
 [View Dashboard on my Tableau Public](https://public.tableau.com/app/profile/kenta.edmonda/viz/GlobalCovid-19_16665169282600/Dashboard1)
