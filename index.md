@@ -47,7 +47,8 @@ Our approach leverages state-of-the-art machine learning algorithms and techniqu
 
 Through this project, I created a visualization dashboard about the dynamics of the Covid-19 movement in Indonesia from February 2020 to August 2022. I did this visualization through exploratory data analysis collaboration using Microsoft Excel with functions such as pivot tables and others to get analysis results. I then visualized the results of this analysis through tableau tools, which then produced this dashboard.
 
-<img src="images/Screenshot 2023-09-13 155056.png?raw=true"/>
+<img src="images/Dashboard 2 (1).png?raw=true"/>
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
 [View Dashboard on my Tableau Public](https://public.tableau.com/app/profile/kenta.edmonda/viz/TheDynamicofCovid-19Indonesia/Dashboard2) 
 
@@ -55,6 +56,34 @@ Through this project, I created a visualization dashboard about the dynamics of 
 #### DA Project 2 : API For Data Cleansing - Abusive and Hate Speech on Twitter
 Create an API for cleaning abusive and hate speech text data. Find the distribution pattern between non-hate and hate along with non-abusive and abusive. Examining the types of words that are abusive and hate speech on the Twitter platform.
 
+<img src="images/Screenshot 2023-08-30 110215.png?raw=true"/>
+<img src="images/Screenshot 2023-08-30 211422.png?raw=true"/>
+
+[View My Project](https://www.cakeresume.com/portfolios/api-for-cleansing-text-using-python)
+---
+#### DA Project 3 : Netflix and Tv Shows Visualization
+This project revolves around visualizing the distribution of Netflix viewership for both movies and TV shows worldwide. It aims to provide insights into which movies and TV shows are the most popular among Netflix users and offers a comparative analysis of viewership between these two content categories on the platform.
+
+<img src="images/Dashboard 1 (1).png?raw=true"/>
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
+
+[View Dashboard on my Tableau Public](https://public.tableau.com/app/profile/kenta.edmonda/viz/SimpleNetflixandTVShowDashboard/Dashboard1) 
+
+---
+#### DA Project 4 : Global Covid-19 Visualization
+
+This project is centered around the collection and analysis of COVID-19 pandemic data from various countries and continents. The dataset includes information on cases, deaths, population, and COVID-19 vaccinations.
+
+The project encompasses a wide range of analyses, including comparisons between total cases and total deaths, the percentage of the population affected, countries with the highest infection rates, and more.
+
+The primary objective of this project is to provide better insights and understanding of the progression of the COVID-19 pandemic across different locations and the effectiveness of vaccination efforts in mitigating its impact.
+
+Through data visualization and analysis, our goal is to offer a clearer picture of the COVID-19 pandemic's dynamics, its toll on different regions, and how vaccination campaigns are influencing the outcomes. This project serves as a valuable resource for informed decision-making and public awareness during these challenging times.
+
+<img src="images/Dashboard 1.png?raw=true"/>
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
+
+[View Dashboard on my Tableau Public](https://public.tableau.com/app/profile/kenta.edmonda/viz/GlobalCovid-19_16665169282600/Dashboard1)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
