@@ -7,7 +7,8 @@
 
 In this project, I employ the Random Forest Classifier algorithm to predict income based on a variety of critical factors, including age, education level, gender, total working hours, and more. This sophisticated approach enables me to make precise financial forecasts and empowers me to take informed steps towards achieving my financial objectives
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2023-09-13 154306.png?raw=true"/>
+<img src="images/Screenshot 2023-09-13 154306.png?raw=true"/>
 
 ---
 #### Project 2 : Face Recognition for Adult vs Children: Tensorflow Algorithm
