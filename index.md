@@ -12,7 +12,7 @@ In this project, I employ the Random Forest Classifier algorithm to predict inco
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
 
-[View code on GitHub repository](https://github.com/KentaEDM)
+[View code on GitHub repository](https://github.com/KentaEDM/Machine-Learning/blob/main/Prohect_Modeling_Predict_Income.ipynb)
 
 ---
 #### Project 2 : Face Recognition for Adult vs Children: Tensorflow Algorithm
