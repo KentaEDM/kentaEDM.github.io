@@ -10,7 +10,7 @@ In this project, I employ the Random Forest Classifier algorithm to predict inco
 <img src="images/Screenshot 2023-09-13 154306.png?raw=true"/>
 <img src="images/Screenshot 2023-09-12 220440.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 [View code on GitHub repository](https://github.com/KentaEDM/Machine-Learning/blob/main/Prohect_Modeling_Predict_Income.ipynb)
 
