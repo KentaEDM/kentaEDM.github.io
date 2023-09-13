@@ -43,15 +43,17 @@ Our approach leverages state-of-the-art machine learning algorithms and techniqu
 
 ## Data Analytics & Data Visualization
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#### DA Project 1 : The Dynamic of Covid-19 Indonesia
+
+Through this project, I created a visualization dashboard about the dynamics of the Covid-19 movement in Indonesia from February 2020 to August 2022. I did this visualization through exploratory data analysis collaboration using Microsoft Excel with functions such as pivot tables and others to get analysis results. I then visualized the results of this analysis through tableau tools, which then produced this dashboard.
+
+<img src="images/Screenshot 2023-09-13 155056.png?raw=true"/>
+
+[View Dashboard on my Tableau Public](https://public.tableau.com/app/profile/kenta.edmonda/viz/TheDynamicofCovid-19Indonesia/Dashboard2) 
 
 ---
-
-
+#### DA Project 2 : API For Data Cleansing - Abusive and Hate Speech on Twitter
+Create an API for cleaning abusive and hate speech text data. Find the distribution pattern between non-hate and hate along with non-abusive and abusive. Examining the types of words that are abusive and hate speech on the Twitter platform.
 
 
 ---
