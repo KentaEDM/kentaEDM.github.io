@@ -60,12 +60,13 @@ Create an API for cleaning abusive and hate speech text data. Find the distribut
 <img src="images/Screenshot 2023-08-19 211422.png?raw=true"/>
 
 [View My Project](https://www.cakeresume.com/portfolios/api-for-cleansing-text-using-python)
+
 ---
 #### DA Project 3 : Netflix and Tv Shows Visualization
 This project revolves around visualizing the distribution of Netflix viewership for both movies and TV shows worldwide. It aims to provide insights into which movies and TV shows are the most popular among Netflix users and offers a comparative analysis of viewership between these two content categories on the platform.
 
 <img src="images/Dashboard 1 (1).png?raw=true"/>
-[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)]
 
 [View Dashboard on my Tableau Public](https://public.tableau.com/app/profile/kenta.edmonda/viz/SimpleNetflixandTVShowDashboard/Dashboard1) 
 
