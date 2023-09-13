@@ -38,7 +38,8 @@ Our approach leverages state-of-the-art machine learning algorithms and techniqu
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
 
-[View code on GitHub repository]([https://github.com/KentaEDM/Machine-Learning/blob/main/AdultChildren_Immage_Classification.ipynb](https://github.com/KentaEDM/Machine-Learning/blob/main/Waste_Classification.ipynb))
+[View code on GitHub repository](https://github.com/KentaEDM/Machine-Learning/blob/main/Waste_Classification.ipynb)
+
 
 ## Data Analytics & Data Visualization
 
