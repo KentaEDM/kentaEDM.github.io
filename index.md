@@ -49,7 +49,7 @@ Through this project, I created a visualization dashboard about the dynamics of 
 
 <img src="images/Dashboard 2 (1).png?raw=true"/>
 
-[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) [![](https://img.shields.io/badge/MySQL-white?logo=MYSql)](#)
 
 [View Dashboard on my Tableau Public](https://public.tableau.com/app/profile/kenta.edmonda/viz/TheDynamicofCovid-19Indonesia/Dashboard2) 
 
@@ -70,7 +70,7 @@ This project revolves around visualizing the distribution of Netflix viewership 
 
 <img src="images/Dashboard 1 (1).png?raw=true"/>
 
-[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) [![](https://img.shields.io/badge/MySQL-white?logo=MYSql)](#)
 
 [View Dashboard on my Tableau Public](https://public.tableau.com/app/profile/kenta.edmonda/viz/SimpleNetflixandTVShowDashboard/Dashboard1) 
 
@@ -87,7 +87,7 @@ Through data visualization and analysis, our goal is to offer a clearer picture 
 
 <img src="images/Dashboard 1.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) [![](https://img.shields.io/badge/MySQL-white?logo=MYSql)](#)
 
 [View Dashboard on my Tableau Public](https://public.tableau.com/app/profile/kenta.edmonda/viz/GlobalCovid-19_16665169282600/Dashboard1)
 
