@@ -24,8 +24,6 @@ The project revolved around image classification using TensorFlow, aiming to bui
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
 
 [View code on GitHub repository](https://github.com/KentaEDM/Machine-Learning/blob/main/AdultChildren_Immage_Classification.ipynb)
----
-
 
 ---
 
