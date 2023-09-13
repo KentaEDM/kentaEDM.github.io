@@ -57,7 +57,7 @@ Through this project, I created a visualization dashboard about the dynamics of 
 Create an API for cleaning abusive and hate speech text data. Find the distribution pattern between non-hate and hate along with non-abusive and abusive. Examining the types of words that are abusive and hate speech on the Twitter platform.
 
 <img src="images/Screenshot 2023-08-30 110215.png?raw=true"/>
-<img src="images/Screenshot 2023-08-30 211422.png?raw=true"/>
+<img src="images/Screenshot 2023-08-19 211422.png?raw=true"/>
 
 [View My Project](https://www.cakeresume.com/portfolios/api-for-cleansing-text-using-python)
 ---
