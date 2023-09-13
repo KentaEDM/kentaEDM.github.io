@@ -48,6 +48,7 @@ Our approach leverages state-of-the-art machine learning algorithms and techniqu
 Through this project, I created a visualization dashboard about the dynamics of the Covid-19 movement in Indonesia from February 2020 to August 2022. I did this visualization through exploratory data analysis collaboration using Microsoft Excel with functions such as pivot tables and others to get analysis results. I then visualized the results of this analysis through tableau tools, which then produced this dashboard.
 
 <img src="images/Dashboard 2 (1).png?raw=true"/>
+
 [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
 [View Dashboard on my Tableau Public](https://public.tableau.com/app/profile/kenta.edmonda/viz/TheDynamicofCovid-19Indonesia/Dashboard2) 
@@ -58,6 +59,8 @@ Create an API for cleaning abusive and hate speech text data. Find the distribut
 
 <img src="images/Screenshot 2023-08-30 110215.png?raw=true"/>
 <img src="images/Screenshot 2023-08-19 211422.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Swagger-white?logo=Swagger)](#)
 
 [View My Project](https://www.cakeresume.com/portfolios/api-for-cleansing-text-using-python)
 
