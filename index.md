@@ -12,7 +12,7 @@ In this project, I employ the Random Forest Classifier algorithm to predict inco
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
-[View code on GitHub repository](https://github.com/KentaEDM/Machine-Learning/blob/main/Prohect_Modeling_Predict_Income.ipynb)
+[View code on GitHub repository](https://github.com/KentaEDM/Data-Science-Project/tree/main/Income%20Predictionb)
 
 ---
 #### Project 2 : Face Recognition for Adult vs Children - Tensorflow Algorithm
@@ -23,7 +23,7 @@ The project revolved around image classification using TensorFlow, aiming to bui
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
 
-[View code on GitHub repository](https://github.com/KentaEDM/Machine-Learning/blob/main/AdultChildren_Immage_Classification.ipynb)
+[View code on GitHub repository](https://github.com/KentaEDM/Data-Science-Project/tree/main/Face%20Recognition)
 
 ---
 #### Project 3 : Organic and Non-Organic Waste Classification -  Convolutional Neural Network (CNN)
@@ -38,7 +38,7 @@ Our approach leverages state-of-the-art machine learning algorithms and techniqu
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
 
-[View code on GitHub repository](https://github.com/KentaEDM/Machine-Learning/blob/main/Waste_Classification.ipynb)
+[View code on GitHub repository](https://github.com/KentaEDM/Data-Science-Project/tree/main/Waste%20Classification)
 
 
 ## Data Analytics & Data Visualization
